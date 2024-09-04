@@ -33,7 +33,7 @@
             ex:
             arrString [1] = null;
 
-            //find the length of the array
+            find the length of the array
             ex:
             System.out.println(arrString.length);
 
